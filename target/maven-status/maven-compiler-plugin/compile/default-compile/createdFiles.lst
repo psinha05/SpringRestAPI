@@ -1,0 +1,5 @@
+com\ps\springrest\controller\AuthorController.class
+com\ps\springrest\entity\Author.class
+com\ps\springrest\dao\AuthorDao.class
+com\ps\springrest\service\AuthorServiceImpl.class
+com\ps\springrest\service\AuthorService.class
